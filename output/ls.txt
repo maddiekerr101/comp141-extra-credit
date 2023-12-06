@@ -1,0 +1,5 @@
+ls.txt
+pwd.txt
+read.txt
+text.txt
+touch
